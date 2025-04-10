@@ -12,4 +12,4 @@ A simple document showcasing encryption and decryption of SQL tables using symme
 - <b>MySQL</b> 
 
 <h2>Link to Program</h2>
-[https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform-Code](https://github.com/Devenj960/SQL-Encryption/blob/main/Lab_Encryption_JohnsonD.pdf)
+https://github.com/Devenj960/SQL-Encryption/blob/main/Lab_Encryption_JohnsonD.pdf
